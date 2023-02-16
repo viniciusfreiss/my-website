@@ -29,7 +29,7 @@ function App() {
             If you're interested in seeing what kind of awesome stuff I can do,
             check out my <a href="https://github.com/viniciusfreiss">GitHub</a>,{" "}
             <a href="https://www.linkedin.com/in/viniciusfreis/">LinkedIn</a> and{" "}
-            <a href="https://docs.google.com/document/d/1mhEFozyXlsKOvAzq3ryEQx-3swgXfNU8vPhEVfdxC4E/edit?usp=sharing">
+            <a href="https://drive.google.com/file/d/1AH1FmXLTFduqTx0KMC1ZDC5ACT7hxyPF/view?usp=sharing">
               Resume
             </a>
             .
