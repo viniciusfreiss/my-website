@@ -1,0 +1,49 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+  position: fixed;
+}
+
+.Card {
+  display: flex;
+  flex-direction: column;
+  background-color:  #191919;
+  box-shadow: 0 0 5px 5px #178582;
+  color: rgb(226, 226, 226);
+  padding: 1rem;
+  margin: 1rem;
+  max-width: 600px;
+  border-radius: 1.5rem;
+}
+
+.CardTitle {
+  font-family: "Space Grotesk", sans-serif;
+  font-size: calc(18px + 3.3vw);
+  font-weight: bold;
+}
+
+.CardBody {
+  font-family: "Chivo", sans-serif;
+  font-size: 1rem;
+  font-weight: normal;
+}
+
+a {
+  color: inherit;
+}
+
+#tsparticles {
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  left: 0;
+  top: 0;
+  z-index: -1;
+}
