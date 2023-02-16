@@ -27,9 +27,9 @@ function App() {
 
           <p>
             If you're interested in seeing what kind of awesome stuff I can do,
-            check out my <a href="https://github.com/viniciusfreiss">GitHub</a>,{" "}
-            <a href="https://www.linkedin.com/in/viniciusfreis/">LinkedIn</a> and{" "}
-            <a href="https://drive.google.com/file/d/1AH1FmXLTFduqTx0KMC1ZDC5ACT7hxyPF/view?usp=sharing">
+            check out my <a href="https://github.com/viniciusfreiss" target="_blank">GitHub</a>,{" "}
+            <a href="https://www.linkedin.com/in/viniciusfreis/" target="_blank">LinkedIn</a> and{" "}
+            <a href="https://drive.google.com/file/d/1a6pFxysL_HvcFK55129rxoiBpumstaSw/view?usp=sharing" target="_blank">
               Resume
             </a>
             .
